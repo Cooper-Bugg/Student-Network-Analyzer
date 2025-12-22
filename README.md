@@ -1,4 +1,4 @@
-# Student Network Analyzer
+# Network Analyzer
 
 A console application that builds an undirected, unweighted social network graph from a tab-separated input file and provides analytics like friend counts, friend circles by college, closeness centrality, and connector students.
 
